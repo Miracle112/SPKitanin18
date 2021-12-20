@@ -1,0 +1,9 @@
+ownloadThread#o
+linkFile#l1e
+pathFile#p1e
+thread#t1d
+link#l1k
+path#p1h
+public#p1c
+url#u1l
+StandardCopyOption#S1n
